@@ -1,7 +1,7 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: April 29-30th, 2025
+- Facilitator: @Chris Donlan
 
 ## Class Resources
 
