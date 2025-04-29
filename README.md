@@ -2,6 +2,7 @@
 
 - Class Date: April 29-30th, 2025
 - Facilitator: @Chris Donlan
+update this for our class
 
 ## Class Resources
 
