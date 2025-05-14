@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Updating caption on MD file
 
 ![kimonotocat](https://octodex.github.com/images/kimonotocat.png)
 {: .center}
