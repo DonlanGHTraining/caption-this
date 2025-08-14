@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Crazy cat with a hat and crab claw
 
 ![minertocat](https://octodex.github.com/images/minertocat.png)
 {: .center}
