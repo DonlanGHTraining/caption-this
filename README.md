@@ -3,7 +3,7 @@
 - Class Date: Aug 14-15,2025
 - Facilitator: @Chris Donlan
 
-## Class Resources
+## Class  4z8nb
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
